@@ -1,4 +1,5 @@
-# exam-1
+<img width="1920" height="5445" alt="image" src="https://github.com/user-attachments/assets/27d33ed2-86f0-4062-8bc8-dbbf90ed465d" /> 
+
 # Pure Cycles Website (HTML + CSS + Table Layout)
 
 This project is a simple front-end website layout created using **pure HTML tables** and **external CSS**.  
